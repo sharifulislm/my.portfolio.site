@@ -1,19 +1,18 @@
 
 
 body{margin: 0;
-    padding: 0;
+    
     font-family: 'Poppins', sans-serif;
 
 }
 
-.top-bennar{
-    display: inline-flex;
-    background-image: url("img/top-banner.png");
+#top-bennar{
+    display: flex;
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
+ 
 }
-.contenir{
-    width: ;
-}
+
 .row-colm {
     width: 50%;
     padding-left: 75px;
