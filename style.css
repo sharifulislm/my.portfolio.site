@@ -61,3 +61,43 @@ a.link-icon {
     background-repeat: no-repeat;
 	background-position: right;
 }
+
+.arifvai {
+	display: flex;
+	
+}
+.content-color{
+ color: #FFA500;
+}
+
+.developer{
+	width: 50%;
+	float: left;
+	background-color: #FFFFFF;
+}
+.developer2 {
+	width: 50%;
+	float: left;
+	background-color: #FFFFFF;
+	
+}
+.continer2
+{
+	margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
