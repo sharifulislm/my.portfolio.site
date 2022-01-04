@@ -53,5 +53,11 @@ a.link-icon {
     border-radius: 4px;
     padding: 7px;
     padding-left: 20px;
+	
     padding-right: 20px;
+}
+#body-bennar {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+	background-position: right;
 }
