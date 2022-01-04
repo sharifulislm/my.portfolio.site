@@ -2,14 +2,14 @@
 
 body{margin: 0;
     
+    
     font-family: 'Poppins', sans-serif;
 
 }
 
 #top-bennar{
     display: flex;
-    background-image: url(img/top-banner.png);
-    background-repeat: no-repeat;
+
  
 }
 

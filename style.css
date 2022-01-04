@@ -7,13 +7,11 @@ body{margin: 0;
 }
 section {
     display: flex;
-    background-image: url("img/top-banner.png");
+/*    background-image: url("img/top-banner.png");*/
 }
-#first-section{
+#top-bennar{
     background-image: url("img/top-banner.png");
-}
-.contenir{
-    width: ;
+	background-repeat: no-repeat;
 }
 .row-colm {
     width: 50%;
